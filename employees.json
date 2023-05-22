@@ -1,0 +1,79 @@
+{
+  "employees": [
+    {
+      "name": "John Smith",
+      "description": "Senior Software Engineer",
+      "phone": "+1 (555) 123-4567",
+      "email": "john.smith@example.com",
+      "address": "123 Main St, Anytown, USA",
+      "other": {
+        "age": 35,
+        "gender": "Male",
+        "education": "Bachelor's Degree in Computer Science",
+        "languages": ["English", "Spanish", "Java", "Python"],
+        "certifications": ["AWS Certified Developer", "Scrum Master"],
+        "hobbies": ["Playing guitar", "Hiking"]
+      }
+    },
+    {
+      "name": "Emily Johnson",
+      "description": "Marketing Manager",
+      "phone": "+1 (555) 987-6543",
+      "email": "emily.johnson@example.com",
+      "address": "456 Elm St, Anytown, USA",
+      "other": {
+        "age": 30,
+        "gender": "Female",
+        "education": "Master's Degree in Marketing",
+        "languages": ["English", "French", "Spanish"],
+        "certifications": ["Google AdWords Certified"],
+        "hobbies": ["Photography", "Traveling"]
+      }
+    },
+    {
+      "name": "Michael Davis",
+      "description": "Financial Analyst",
+      "phone": "+1 (555) 246-8135",
+      "email": "michael.davis@example.com",
+      "address": "789 Oak St, Anytown, USA",
+      "other": {
+        "age": 28,
+        "gender": "Male",
+        "education": "Bachelor's Degree in Finance",
+        "languages": ["English", "German"],
+        "certifications": ["CFA Level 1"],
+        "hobbies": ["Cooking", "Reading"]
+      }
+    },
+    {
+      "name": "Sarah Johnson",
+      "description": "Human Resources Manager",
+      "phone": "+1 (555) 876-5432",
+      "email": "sarah.johnson@example.com",
+      "address": "321 Pine St, Anytown, USA",
+      "other": {
+        "age": 32,
+        "gender": "Female",
+        "education": "Bachelor's Degree in Human Resources",
+        "languages": ["English", "Spanish"],
+        "certifications": ["PHR Certification"],
+        "hobbies": ["Yoga", "Painting"]
+      }
+    },
+    {
+      "name": "David Thompson",
+      "description": "Sales Representative",
+      "phone": "+1 (555) 345-6789",
+      "email": "david.thompson@example.com",
+      "address": "567 Cedar St, Anytown, USA",
+      "other": {
+        "age": 27,
+        "gender": "Male",
+        "education": "Bachelor's Degree in Business Administration",
+        "languages": ["English"],
+        "certifications": [],
+        "hobbies": ["Basketball", "Traveling"]
+      }
+    }
+  ]
+}
